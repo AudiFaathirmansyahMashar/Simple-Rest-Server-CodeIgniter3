@@ -32,7 +32,7 @@
 > ### 3. POST Request (Failed)
 ```json
 {
-	"status" => false,
-	"message" => "failed"
+	"status" : false,
+	"message" : "failed"
 }
 ```
