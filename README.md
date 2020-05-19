@@ -1,6 +1,6 @@
 # Example JSON Request
 
-> ### 1. GET Reqest
+> ### 1. GET Request
 ```json
 [
 	{
