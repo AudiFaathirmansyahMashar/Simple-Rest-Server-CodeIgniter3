@@ -25,7 +25,7 @@
 ```json
 {
 	"status": true,
-	"message": "new mahasiswa has been created"
+	"message": "the data has been created"
 }
 ```
 
