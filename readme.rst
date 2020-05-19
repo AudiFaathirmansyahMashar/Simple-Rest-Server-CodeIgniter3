@@ -1,6 +1,6 @@
 # Example JSON Request
 
-> ### 1. GET Reqest
+### 1. GET Reqest
 ```json
 [
 	{
@@ -20,7 +20,7 @@
 	}
 ]
 ```
-> ### 2. POST Request (Success)
+### 2. POST Request (Success)
 
 ```json
 {
@@ -29,7 +29,7 @@
 }
 ```
 
-> ### 3. POST Request (Failed)
+### 3. POST Request (Failed)
 ```json
 {
 	"status" => false,
